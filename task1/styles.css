@@ -1,0 +1,37 @@
+.main {
+    margin: auto;
+    width: 60%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.form-box {
+    border-top: 1px solid black;
+    padding: 10px 0 21px 0;
+    border-bottom: 1px solid black;
+}
+
+.form-view {
+    border-top: 1px solid black;
+    padding: 10px 0 10px 0;
+}
+
+.d-InlineBlock,
+.left-side,
+.right-side {
+    display: inline-block;
+}
+
+.padding-left {
+    padding-top: 4.5px;
+}
+
+.padding-right {
+    padding-right: 10px;
+    padding-top: 7px;
+}
+
+.view-padding {
+    padding-top: 5px;
+    margin-bottom: 2px;
+}
