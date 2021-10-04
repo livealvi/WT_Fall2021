@@ -16,7 +16,7 @@
   
 </details>
 
- # All Task's Deploy in **HEROKU** ![](https://img.shields.io/badge/Build-Passed-brightgreen) <a href="https://github-actions-all-task.herokuapp.com/" target="_blank" title="Host on HEROKU - All task are online" >Click Here!</a> <img src="assets/markdown/imgs/rocket-joypixels.gif" width="auto" height="30">
+ # All Task's Deploy in **HEROKU** ![](https://img.shields.io/badge/Build-Passed-brightgreen) <a href="https://github-actions-task.herokuapp.com/" target="_blank" title="Host on HEROKU - All task are online" >Click Here!</a> <img src="assets/markdown/imgs/rocket-joypixels.gif" width="auto" height="30">
 
 # Quick Overview - Setup & Run
 
