@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.table-row {
+    cursor: pointer;
+}
+
+tr:hover {
+    background-color: #B1E693;
+}
+
+.mar-top {
+    margin-top: 30px;
+}
