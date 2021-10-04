@@ -1,4 +1,4 @@
- # This Project / Repo based on this course [CSC 3215](https://www.aiub.edu/faculties/fst/ug-course-catalog/ "AIUB - Faculty of Science and Technology (Undergraduate Course)")
+ # This Project / Repo is based on course [CSC 3215](https://www.aiub.edu/faculties/fst/ug-course-catalog/ "AIUB - Faculty of Science and Technology (Undergraduate Course)")
 
 ### COURSE DESCRIPTION
 <details>
