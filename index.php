@@ -45,6 +45,12 @@
                     <td>Php Form Validation</td>
                     <td class="text-center">Done</td>
                 </tr>
+                <tr class="table-row" onclick="window.open('https://github-actions-task.herokuapp.com/task2/form.php', '_blank');">
+                    <th scope="row">2</th>
+                    <td>2021/10/10</td>
+                    <td>Php Form Validation with JSON Data</td>
+                    <td class="text-center">Done</td>
+                </tr>
             </tbody>
         </table>
     </div>

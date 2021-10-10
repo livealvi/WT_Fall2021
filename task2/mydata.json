@@ -1,0 +1,11 @@
+[
+    {
+        "firstName": "Alvi111",
+        "lastName": "Hasan",
+        "age": "23",
+        "designation": "Junior Programmer",
+        "language": true,
+        "email": "alvi@gmail.com",
+        "password": "123456789"
+    }
+]
