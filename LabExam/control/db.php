@@ -19,11 +19,9 @@ class db
         }
     }
 
-
-
     function InsertValue($conn, $firstname, $lastname, $email, $genders, $mobile, $dob, $hsc, $ssc, $course, $year, $semester)
     {
-        $sql = "INSERT INTO new_students (FirstName, LastName, Email, Gender, Mobile, DOB, HSC_Result, SCC_Result, University_Course, University_Year, University_Semester) VALUES ('$firstname', '$lastname', '$email', '$genders', '$mobile', '$dob', '$hsc', '$ssc', '$course', '$year', '$semester') ";
+        $sql = "INSERT INTO `new_students` (`FirstName`, `LastName`, `Email`, `Gender`, `Mobile`, `DOB`, `HSC_Result`, `SSC_Result`, `University_Course`, `University_Year`, `University_Semester`) VALUES ('$firstname', '$lastname', '$email', '$genders', '$mobile', '$dob', '$hsc', '$ssc', '$course', '$year', '$semester') ";
 
         $done = $conn->query($sql);
         return $done;
