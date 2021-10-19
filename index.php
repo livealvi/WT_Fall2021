@@ -52,9 +52,9 @@
                     <td class="text-center">Done</td>
                 </tr>
                 <tr class="table-row" onclick="window.open('https://github-actions-task.herokuapp.com/LabExam/index.php', '_blank');">
-                    <th scope="row">2</th>
-                    <td>2021/10/10</td>
-                    <td>Php Form Validation with JSON Data</td>
+                    <th scope="row">3</th>
+                    <td>2021/10/19</td>
+                    <td>MID Lab Exam</td>
                     <td class="text-center">Done</td>
                 </tr>
             </tbody>
