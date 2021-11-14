@@ -31,14 +31,14 @@
         <div class="content">
             <div class="main-box">
                 <div class="main-form">
-                    <div>
+                    <div class="form-header-text">
                         <h1>Registration Form</h1>
                     </div>
                     <div class="form-box">
                         <div class="form-view ">
                             <form method="post" action="" enctype="multipart/form-data">
                                 <div class="row">
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="firstName">First Name</label>:</label>
                                         </div>
@@ -46,7 +46,7 @@
                                             <input type="text" name="firstName" size="50">
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="lastName">Last Name:</label>
                                         </div>
@@ -54,7 +54,7 @@
                                             <input type="text" name="lastName" size="50">
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="age">Age:</label>
                                         </div>
@@ -62,23 +62,20 @@
                                             <input type="text" name="age" size="50">
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="designation">Designation:</label>
                                         </div>
                                         <div class="for-input">
-                                            <input type="radio" id="juniorProgrammer" name="designation"
-                                                value="Junior Programmer">
+                                            <input type="radio" id="juniorProgrammer" name="designation" value="Junior Programmer">
                                             <label for="juniorProgrammer">Junior Programmer</label>
-                                            <input type="radio" id="seniorProgrammer" name="designation"
-                                                value="Senior Programmer">
+                                            <input type="radio" id="seniorProgrammer" name="designation" value="Senior Programmer">
                                             <label for="seniorProgrammer">Senior Programmer</label>
-                                            <input type="radio" id="projectLead" name="designation"
-                                                value="Project Lead">
+                                            <input type="radio" id="projectLead" name="designation" value="Project Lead">
                                             <label for="projectLead">Project Lead</label>
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="preferredLanguage">Preferred Language:</label>
                                         </div>
@@ -91,7 +88,7 @@
                                             <label for="cPlusPlus">C++</label>
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="Email">E-mail:</label>
                                         </div>
@@ -99,7 +96,7 @@
                                             <input type="email" name="email" size="50">
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="password">Password:</label>
                                         </div>
@@ -107,7 +104,7 @@
                                             <input type="password" name="password" size="50">
                                         </div>
                                     </div>
-                                    <div class="yellow-color">
+                                    <div>
                                         <div class="for-label">
                                             <label for="image_file">Please Choose a Image</label>
                                         </div>

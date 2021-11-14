@@ -14,8 +14,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap" rel="stylesheet">
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Styles CSS -->
@@ -25,10 +24,10 @@
 <body>
 
     <div class="container">
-    <h1 class="h1 text-center" style="
+        <h1 class="h1 text-center" style="
     margin-top: 30px">WEB TECHNOLOGIES</h1>
-    <h3 class="h3 text-center">All Task List</h3>
-    <br>
+        <h3 class="h3 text-center">All Task List</h3>
+        <br>
         <table class='table table-bordered table-condensed table-striped table-hover'>
             <thead class="table-primary">
                 <tr>
@@ -57,18 +56,22 @@
                     <td>MID Lab Exam</td>
                     <td class="text-center">Done</td>
                 </tr>
+                <tr class="table-row" onclick="window.open('https://github-actions-task.herokuapp.com/FTTask1/index.php', '_blank');">
+                    <th scope="row">4</th>
+                    <td>2021/11/14</td>
+                    <td>Final Task 1</td>
+                    <td class="text-center">Done</td>
+                </tr>
             </tbody>
         </table>
     </div>
 
     <!-- All Js Files -->
     <!-- Popper  -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
     </script>
     <!-- Bootstrap -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"
-        integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous">
     </script>
     <!-- Main -->
     <script type="text/javascript" src="assets/html/main.js"></script>
