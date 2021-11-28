@@ -27,10 +27,7 @@
 
 # Language - Tools - Technology
 
-<details>
-  <summary> Click to Expand </summary>
-  
-  | Language				 | Version           		| Tools & Technology                          
+| Language				 | Version           		| Tools & Technology                          
 |------------------------|-----------------------   |-----------------------------|
 |PHP 			 		 | [8.0.11](https://www.php.net/ChangeLog-8.php#8.0.11)          		| [XAMPP](https://www.apachefriends.org/download.html)       |
 | HTML5  		| [5](https://www.w3schools.com/html/)          | [Google Chrome](https://www.google.com/chrome/) , [Visual Studio Code](https://code.visualstudio.com/download)            | 
@@ -41,8 +38,6 @@
 |MySQL / PhpMyAdmin					 | [5.1.1](https://www.phpmyadmin.net/downloads/) |[XAMPP](https://www.apachefriends.org/download.html) |
 | MariaDB   | [10.4.21 Stable](https://downloads.mariadb.org/mariadb/10.4.21/) | [XAMPP](https://www.apachefriends.org/download.html) |
 | Apache    | [2.4.49 (Win64)](https://httpd.apache.org/download.cgi) | [XAMPP](https://www.apachefriends.org/download.html) |
-
-</details>
 
 
 
