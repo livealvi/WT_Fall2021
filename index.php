@@ -68,6 +68,12 @@
                     <td>Final Task 2</td>
                     <td class="text-center">Done</td>
                 </tr>
+                <tr class="table-row" onclick="window.open('https://github-actions-task.herokuapp.com/FTLabExam/index.php', '_blank');">
+                    <th scope="row">5</th>
+                    <td>2021/12/05</td>
+                    <td>Final Lab Exam</td>
+                    <td class="text-center">Done</td>
+                </tr>
             </tbody>
         </table>
     </div>
